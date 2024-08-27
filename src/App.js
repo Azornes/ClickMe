@@ -9,10 +9,10 @@ function App() {
       const userId = localStorage.getItem('userId') || Math.random().toString(36).substring(7);
       localStorage.setItem('userId', userId);
 
-      const response = await axios.post('http://localhost:5000/click', { userId });
+      const response = await axios.post('https://anonymous-button-backend.onrender.com/click', { userId });
       setMessage(response.data.message);
     } catch (error) {
-      setMessage(error.response.data.message);
+      setMessage(error.response?.data?.message || 'Wystąpił błąd');
     }
   };
 
