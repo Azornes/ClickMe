@@ -1,5 +1,6 @@
 {
   "name": "anonymous-button-frontend",
+  "homepage": "https://azornes.github.io/anonymous-button-frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
