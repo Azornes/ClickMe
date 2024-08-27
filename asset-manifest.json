@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.3ef0fb3c.js",
-    "static/js/453.76b97338.chunk.js": "/static/js/453.76b97338.chunk.js",
-    "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.3ef0fb3c.js.map": "/static/js/main.3ef0fb3c.js.map",
-    "453.76b97338.chunk.js.map": "/static/js/453.76b97338.chunk.js.map"
+    "main.css": "/anonymous-button-frontend/static/css/main.e6c13ad2.css",
+    "main.js": "/anonymous-button-frontend/static/js/main.d4d5c3a6.js",
+    "static/js/453.76b97338.chunk.js": "/anonymous-button-frontend/static/js/453.76b97338.chunk.js",
+    "index.html": "/anonymous-button-frontend/index.html",
+    "main.e6c13ad2.css.map": "/anonymous-button-frontend/static/css/main.e6c13ad2.css.map",
+    "main.d4d5c3a6.js.map": "/anonymous-button-frontend/static/js/main.d4d5c3a6.js.map",
+    "453.76b97338.chunk.js.map": "/anonymous-button-frontend/static/js/453.76b97338.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.3ef0fb3c.js"
+    "static/js/main.d4d5c3a6.js"
   ]
 }
