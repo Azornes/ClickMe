@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/anonymous-button-frontend/static/css/main.a4d1b7b2.css",
-    "main.js": "/anonymous-button-frontend/static/js/main.d7fb2d08.js",
+    "main.js": "/anonymous-button-frontend/static/js/main.b2f8cc9f.js",
     "static/js/453.76b97338.chunk.js": "/anonymous-button-frontend/static/js/453.76b97338.chunk.js",
     "index.html": "/anonymous-button-frontend/index.html",
     "main.a4d1b7b2.css.map": "/anonymous-button-frontend/static/css/main.a4d1b7b2.css.map",
-    "main.d7fb2d08.js.map": "/anonymous-button-frontend/static/js/main.d7fb2d08.js.map",
+    "main.b2f8cc9f.js.map": "/anonymous-button-frontend/static/js/main.b2f8cc9f.js.map",
     "453.76b97338.chunk.js.map": "/anonymous-button-frontend/static/js/453.76b97338.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a4d1b7b2.css",
-    "static/js/main.d7fb2d08.js"
+    "static/js/main.b2f8cc9f.js"
   ]
 }
