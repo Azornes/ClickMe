@@ -1,5 +1,9 @@
 .App {
-  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
 }
 
 .App-logo {
@@ -36,3 +40,36 @@
     transform: rotate(360deg);
   }
 }
+
+.animated-button {
+  width: 150px;
+  height: 150px;
+  font-size: 24px;
+  font-weight: bold;
+  color: black;
+  border: none;
+  border-radius: 50%; /* okrągły kształt przycisku */
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease; /* animacja przejścia koloru i skalowania */
+  text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.8); /* biała otoczka tekstu */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.green {
+  background-color: green;
+}
+
+.red {
+  background-color: red;
+}
+
+.animated-button:hover {
+  transform: scale(1.1); /* powiększenie przycisku po najechaniu */
+}
+
+.animated-button:active {
+  transform: scale(0.9); /* zmniejszenie przycisku po kliknięciu */
+}
+
